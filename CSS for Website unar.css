@@ -1,0 +1,46 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: navy;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	
+}
+
+h3 {
+	color: navy;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	
+}
+
+#trollface {
+	margin-left:535px;
+	padding-top: 20px;
+}
+
+#NavigationBar {
+	margin-left:44%;
+	margin-right:44.5%;
+	font-family: 'Lato', sans-serif;
+	border-style: groove;
+	border-color: navy;
+	border-width: 10px;
+}
+
+#LetMeThink {
+	padding-top: 300px;
+	height: 200px;
+	width: 1920px;
+}
+
+#div1 {
+	float:left;
+	border-style: solid;
+	border-width: 10px;
+	width:110px;
+	font-family: 'Lato', sans-serif;
+	line-height: 1.5;
+}
